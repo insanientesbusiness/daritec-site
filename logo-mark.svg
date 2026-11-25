@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="830" viewBox="0 0 1150 830" role="img" aria-label="Daritec">
+<defs>
+<linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#2b86f5"/><stop offset=".55" stop-color="#1568e0"/><stop offset="1" stop-color="#0a49b8"/></linearGradient>
+<linearGradient id="bt" x1="0" x2="1"><stop offset="0" stop-color="#0f5ad6"/><stop offset="1" stop-color="#2a86f4"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f5f7"/><stop offset=".5" stop-color="#cfd2d7"/><stop offset="1" stop-color="#9ea2a9"/></linearGradient>
+<linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#8c9097"/><stop offset=".5" stop-color="#e9eaed"/><stop offset="1" stop-color="#9a9ea5"/></linearGradient>
+<linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9dbdf"/><stop offset="1" stop-color="#8d9199"/></linearGradient>
+<linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#6e7279"/><stop offset=".35" stop-color="#d9dbdf"/><stop offset=".6" stop-color="#9da1a8"/><stop offset="1" stop-color="#6a6e75"/></linearGradient>
+<linearGradient id="dv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".25"/></linearGradient>
+</defs>
+<g fill="none" stroke="#1668e2" stroke-width="17" stroke-linejoin="round" stroke-linecap="butt">
+<path d="M148 138H195L262 210H432"/><path d="M181 277H245L290 322H432"/><path d="M90 392H432"/>
+<path d="M191 495H225L270 455H432"/><path d="M108 584H225L295 522H432"/><path d="M196 688H222L300 602H432"/>
+</g>
+<g fill="none" stroke="#1664de" stroke-width="15">
+<circle cx="125" cy="132" r="22"/><circle cx="158" cy="277" r="22"/><circle cx="65" cy="391" r="22"/>
+<circle cx="167" cy="490" r="22"/><circle cx="85" cy="582" r="22"/><circle cx="172" cy="688" r="22"/>
+</g>
+<path fill="url(#b)" d="M360 38H550V770H368Q354 768 360 754Q430 724 436 690V112Q432 82 352 68Q348 50 360 38Z"/>
+<rect x="581" y="38" width="16" height="732" fill="url(#r)"/><rect x="703" y="38" width="16" height="732" fill="url(#r)"/>
+<path fill="#1f7bf0" d="M622 180H684L653 125Z"/><path fill="#1f7bf0" d="M622 668H684L653 718Z"/>
+<path fill="url(#s)" d="M755 38A345 366 0 0 1 755 770V685A245 281 0 0 0 755 123Z"/>
+<path fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="3" d="M755 123A245 281 0 0 1 755 685"/>
+<rect x="525" y="213" width="265" height="419" rx="3" fill="url(#f)"/>
+<rect x="553" y="238" width="210" height="369" fill="#0c0d10"/>
+<rect x="560" y="248" width="90" height="352" fill="url(#d)"/><rect x="660" y="248" width="95" height="352" fill="url(#d)"/>
+<rect x="560" y="248" width="195" height="352" fill="url(#dv)"/>
+<rect x="705" y="398" width="34" height="56" rx="8" fill="#0c0d10"/><rect x="712" y="408" width="20" height="14" rx="4" fill="#cfd2d7"/>
+</svg>
